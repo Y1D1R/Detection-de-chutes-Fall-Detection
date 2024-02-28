@@ -1,38 +1,40 @@
-# Application de Détection de Chutes des Personnes Âgées
+# Elderly Fall Detection Application
 
-Bienvenue, ce projet a été développé dans le cadre d'un projet de fin d'études en licence. L'objectif principal de cette application est d'utiliser la vision par ordinateur pour détecter les chutes des personnes âgées à partir de vidéos fournies par des caméras de surveillance installées à domicile.
+Welcome! 
 
-## Aperçu
+This project was developed as part of a final year project for a bachelor's degree. The main objective of this application is to utilize computer vision to detect falls of elderly individuals using videos provided by home surveillance cameras.
+## Overview
 
-La population vieillissante en Algérie est en constante augmentation, avec les personnes de plus de 65 ans représentant une part importante de la population. Les chutes sont l'un des problèmes majeurs auxquels les personnes âgées sont confrontées. Les conséquences des chutes peuvent être graves, entraînant des hospitalisations voire des décès.
+The aging population in Algeria is steadily increasing, with individuals over 65 years old representing a significant portion of the population. Falls are one of the major issues faced by the elderly. The consequences of falls can be severe, leading to hospitalizations or even deaths.
 
-Dans ce contexte, cette application utilise la vision par ordinateur pour surveiller en continu les vidéos provenant de caméras de surveillance installées chez les personnes âgées. Elle détecte les chutes potentielles et envoie des alertes pour assurer leur sécurité.
+In this context, this application employs computer vision to continuously monitor videos from surveillance cameras installed in the homes of elderly individuals. It detects potential falls and sends alerts to ensure their safety.
+Features
 
-## Fonctionnalités
+- Fall detection from surveillance videos.
 
-- Détection de chutes à partir de vidéos de surveillance.
-- Utilisation de techniques de vision par ordinateur pour analyser les mouvements.
-- Envoi d'alertes en cas de détection de chute.
+- Utilization of computer vision techniques to analyze movements.
 
+- Alert notifications upon fall detection.
 
-## Utilisation
+## Usage
 
-- Executer le fichier "main.exe" qui se trouve dans le dossie Application/
-- Vous pouvez visualiser le code principale de la méthode utilisée dans le fichier "code_main.py"
+- Run the "main.exe" file located in the Application/ folder.
 
-## Technologies Utilisées
+- You can view the main code of the method used in the "code_main.py" file.
 
-- Vision par ordinateur
-- Traitement d'images et de vidéos
-- Python, OpenCV, PyQT.
+## Technologies Used
 
-## Contribuer
+- Computer vision, Image and video processing.
+- Python, OpenCV and PyQt for the GUI.
 
-Toute contribution à ce projet est la bienvenue ! Si vous souhaitez ajouter des fonctionnalités, corriger des bugs ou améliorer la documentation, n'hésitez pas à soumettre une pull request ou bien me contacter.
+## Contributing
 
----
+Any contribution to this project is welcome! If you'd like to add features, fix bugs, or improve documentation, feel free to submit a pull request or contact me.
 
-**Note :** Ce projet a été réalisé dans le cadre d'un projet de fin d'études en licence. L'application a été conçue pour illustrer la détection de chutes à partir de vidéos, et son efficacité dans un environnement de production réel doit être évaluée soigneusement.
+**If you find the repository informative and believe it could assist you in your projects, consider giving it a star ⭐️**
 
-*Mots clés : vision par ordinateur, vidéo surveillance, détection de chutes.*
+### Note: 
+This project was carried out as part of a bachelor's degree final year project. The application was designed to demonstrate fall detection from videos, and its effectiveness in a real production environment should be carefully evaluated.
+
+*Keywords: computer vision, video surveillance, fall detection.*
 
